@@ -1,5 +1,3 @@
 # reactReduxLayout
 
-#
-# .
-# ├── src
+├── src
